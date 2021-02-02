@@ -1,2 +1,2 @@
-# java_project_01
+# User
 Spring Boot with hibernate -  CRUD
